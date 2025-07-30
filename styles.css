@@ -180,7 +180,7 @@ a{
   .titulo-projeto::after {
     display: block;
     content: '';
-    width: 115px;
+    width: 250PX;
     height: 4px;
     background: #4a2cc5;
   }
@@ -192,8 +192,8 @@ img{
     margin: auto;
 }
 
-#img-projeto-netflix{
-    height: 250px;
+#img-projeto-telegram{
+    height: 320px;
 }
 
 .container-projetos{
@@ -561,7 +561,7 @@ img{
     max-width: 550px;
     margin-bottom: 25px;
   }
-  #img-projeto-netflix{
+  #img-projeto-telegram{
     height: 350px;
 }
 
@@ -665,7 +665,7 @@ img{
   img{
     width: 300px;
   }
-  #img-projeto-netflix{
+  #img-projeto-telegram{
     height: 200px;
 }
   
@@ -743,7 +743,7 @@ img{
   img{
     width: 250px;
   }
-  #img-projeto-netflix{
+  #img-projeto-telegram{
     height: 150px;
 }
   
@@ -826,7 +826,7 @@ img{
   img{
     width: 200px;
   }
-  #img-projeto-netflix{
+  #img-projeto-telegram{
     height: 200px;
 }
   
